@@ -2,6 +2,8 @@
     <body>
         <h3>Teste de Banco - TDS08</h3>
         <hr/>
+        <a href="index.php">Usuário</a> | <a href="contato.php">Contato</a>
+        <hr/>
         <form action="cadastra.php" method="POST">
             Nome<br/>
             <input type="text" name="nome"/><br/>
